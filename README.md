@@ -1,5 +1,4 @@
 # Symbol Editor: Dynamic creating of a plugin for a generic CAD
-
 **Supervisor**     &emsp;&emsp;&nbsp; prof. Paolo Ciaccia <br>
 **Co-supervisor**  &nbsp;&nbsp;&nbsp; Ing. Mattia D'Arpa <br>
 
